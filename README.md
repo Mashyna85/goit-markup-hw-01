@@ -1,2 +1,2 @@
-# goit-markup-hw-01
+# goit-markup-hw-01.github.io
 First HW Mashyna O/
